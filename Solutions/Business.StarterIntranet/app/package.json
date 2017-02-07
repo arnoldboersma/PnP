@@ -45,6 +45,7 @@
     "@types/knockout": "^3.4.39",
     "@types/knockout.mapping": "^2.0.28",
     "@types/pubsub-js": "^1.5.17",
+    "@types/microsoft-ajax": "*",
     "@types/sharepoint": "^2013.1.1",
     "@types/sprintf-js": "0.0.27",
     "@types/trunk8": "0.0.27",
